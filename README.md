@@ -1,2 +1,2 @@
 # gherkin-lint
-Linter for gherkin files, Pythom module with cli interface
+Linter for gherkin files, Python module with cli interface
