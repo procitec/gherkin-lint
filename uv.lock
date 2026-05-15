@@ -13,7 +13,7 @@ wheels = [
 
 [[package]]
 name = "gherkin-lint"
-version = "1.0.0"
+version = "26.1.1"
 source = { editable = "." }
 
 [package.dev-dependencies]

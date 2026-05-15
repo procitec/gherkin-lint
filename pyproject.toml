@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "gherkin-lint"
-version = "26.1.0"
+version = "26.1.1"
 description = "Lint Gherkin feature files"
 readme = "README.md"
 requires-python = ">=3.12"
